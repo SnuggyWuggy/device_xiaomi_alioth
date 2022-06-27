@@ -5,37 +5,37 @@ system_ext/lib64/libaptX_encoder.so
 system_ext/lib64/libaptXHD_encoder.so
 
 # HBM-SV
--system_ext/priv-app/HbmSVManager/HbmSVManager.apk
+system_ext/priv-app/HbmSVManager/HbmSVManager.apk
 -system_ext/etc/permissions/privapp-permissions-google-se.xml:system_ext/etc/permissions/privapp-permissions-google-se-lineage.xml
 
 # HotwordEnrollment
--product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk
--product/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk
+product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk
+product/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk
 system_ext/etc/permissions/com.android.hotwordenrollment.common.util.xml
 system_ext/framework/com.android.hotwordenrollment.common.util.jar
 
 # Latency
--system_ext/framework/vendor.qti.latency-V2.0-java.jar
+system_ext/framework/vendor.qti.latency-V2.0-java.jar
 
 # Radio (CNE)
--system_ext/framework/com.quicinc.cne.api-V1.0-java.jar
--system_ext/framework/com.quicinc.cne.api-V1.1-java.jar
--system_ext/framework/com.quicinc.cne.constants-V1.0-java.jar
--system_ext/framework/com.quicinc.cne.constants-V2.0-java.jar
--system_ext/framework/com.quicinc.cne.constants-V2.1-java.jar
--system_ext/framework/vendor.qti.data.factory-V1.0-java.jar
--system_ext/framework/vendor.qti.data.factory-V2.0-java.jar
--system_ext/framework/vendor.qti.data.factory-V2.1-java.jar
--system_ext/framework/vendor.qti.data.factory-V2.2-java.jar
--system_ext/framework/vendor.qti.hardware.data.cne.internal.api-V1.0-java.jar
--system_ext/framework/vendor.qti.hardware.data.cne.internal.constants-V1.0-java.jar
--system_ext/framework/vendor.qti.hardware.data.cne.internal.server-V1.0-java.jar
--system_ext/framework/vendor.qti.hardware.data.connection-V1.0-java.jar
--system_ext/framework/vendor.qti.hardware.data.dynamicdds-V1.0-java.jar
--system_ext/framework/vendor.qti.hardware.data.latency-V1.0-java.jar
--system_ext/framework/vendor.qti.hardware.mwqemadapter-V1.0-java.jar
--system_ext/framework/vendor.qti.hardware.slmadapter-V1.0-java.jar
--system_ext/framework/vendor.qti.hardware.data.qmi-V1.0-java.jar
+system_ext/framework/com.quicinc.cne.api-V1.0-java.jar
+system_ext/framework/com.quicinc.cne.api-V1.1-java.jar
+system_ext/framework/com.quicinc.cne.constants-V1.0-java.jar
+system_ext/framework/com.quicinc.cne.constants-V2.0-java.jar
+system_ext/framework/com.quicinc.cne.constants-V2.1-java.jar
+system_ext/framework/vendor.qti.data.factory-V1.0-java.jar
+system_ext/framework/vendor.qti.data.factory-V2.0-java.jar
+system_ext/framework/vendor.qti.data.factory-V2.1-java.jar
+system_ext/framework/vendor.qti.data.factory-V2.2-java.jar
+system_ext/framework/vendor.qti.hardware.data.cne.internal.api-V1.0-java.jar
+system_ext/framework/vendor.qti.hardware.data.cne.internal.constants-V1.0-java.jar
+system_ext/framework/vendor.qti.hardware.data.cne.internal.server-V1.0-java.jar
+system_ext/framework/vendor.qti.hardware.data.connection-V1.0-java.jar
+system_ext/framework/vendor.qti.hardware.data.dynamicdds-V1.0-java.jar
+system_ext/framework/vendor.qti.hardware.data.latency-V1.0-java.jar
+system_ext/framework/vendor.qti.hardware.mwqemadapter-V1.0-java.jar
+system_ext/framework/vendor.qti.hardware.slmadapter-V1.0-java.jar
+system_ext/framework/vendor.qti.hardware.data.qmi-V1.0-java.jar
 system_ext/lib/com.quicinc.cne.api@1.0.so
 system_ext/lib/com.quicinc.cne.api@1.1.so
 system_ext/lib/com.quicinc.cne.constants@1.0.so
@@ -62,26 +62,26 @@ system_ext/lib64/vendor.qti.hardware.data.qmi@1.0.so
 system_ext/lib64/vendor.qti.hardware.slmadapter@1.0.so
 
 # Radio (QTI)
--product/app/xdivert/xdivert.apk
--product/framework/remotesimlockmanagerlibrary.jar
--product/framework/uimgbalibrary.jar
--product/framework/uimgbamanagerlibrary.jar
--product/framework/uimremotesimlocklibrary.jar
--product/framework/uimservicelibrary.jar
--system_ext/app/QtiTelephonyService/QtiTelephonyService.apk
--system_ext/app/atfwd/atfwd.apk
--system_ext/app/datastatusnotification/datastatusnotification.apk
--system_ext/app/uceShimService/uceShimService.apk
--system_ext/app/uimremoteclient/uimremoteclient.apk
--system_ext/app/uimremoteserver/uimremoteserver.apk
+product/app/xdivert/xdivert.apk
+product/framework/remotesimlockmanagerlibrary.jar
+product/framework/uimgbalibrary.jar
+product/framework/uimgbamanagerlibrary.jar
+product/framework/uimremotesimlocklibrary.jar
+product/framework/uimservicelibrary.jar
+system_ext/app/QtiTelephonyService/QtiTelephonyService.apk
+system_ext/app/atfwd/atfwd.apk
+system_ext/app/datastatusnotification/datastatusnotification.apk
+system_ext/app/uceShimService/uceShimService.apk
+system_ext/app/uimremoteclient/uimremoteclient.apk
+system_ext/app/uimremoteserver/uimremoteserver.apk
 -system_ext/etc/sysconfig/qti_telephony_system_packages_config.xml
--system_ext/framework/com.qti.dpmframework.jar
--system_ext/framework/qcrilhook.jar
--system_ext/framework/qmapbridge.jar
--system_ext/framework/uimlpalibrary.jar
--system_ext/framework/uimremoteclientlibrary.jar
--system_ext/framework/uimremoteserverlibrary.jar
--system_ext/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
+system_ext/framework/com.qti.dpmframework.jar
+system_ext/framework/qcrilhook.jar
+system_ext/framework/qmapbridge.jar
+system_ext/framework/uimlpalibrary.jar
+system_ext/framework/uimremoteclientlibrary.jar
+system_ext/framework/uimremoteserverlibrary.jar
+system_ext/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
 product/etc/permissions/RemoteSimlock.xml
 product/etc/permissions/RemoteSimlockManager.xml
 product/etc/permissions/UimGba.xml
@@ -134,22 +134,22 @@ system_ext/lib64/vendor.qti.hardware.radio.uim_remote_client@1.1.so
 system_ext/lib64/vendor.qti.hardware.radio.uim_remote_server@1.0.so
 
 # Radio (IMS)
--system_ext/priv-app/ims/ims.apk
+system_ext/priv-app/ims/ims.apk
 system_ext/etc/permissions/com.qualcomm.qti.imscmservice-V2.0-java.xml
 system_ext/etc/permissions/com.qualcomm.qti.imscmservice-V2.1-java.xml
 system_ext/etc/permissions/com.qualcomm.qti.imscmservice-V2.2-java.xml
 system_ext/etc/permissions/org_codeaurora_ims.xml
--system_ext/framework/com.qualcomm.qti.imscmservice-V2.0-java.jar
--system_ext/framework/com.qualcomm.qti.imscmservice-V2.1-java.jar
--system_ext/framework/com.qualcomm.qti.imscmservice-V2.2-java.jar
--system_ext/framework/com.qualcomm.qti.uceservice-V2.0-java.jar
--system_ext/framework/com.qualcomm.qti.uceservice-V2.1-java.jar
--system_ext/framework/com.qualcomm.qti.uceservice-V2.2-java.jar
--system_ext/framework/vendor.qti.hardware.data.iwlan-V1.0-java.jar
--system_ext/framework/vendor.qti.ims.callinfo-V1.0-java.jar
--system_ext/framework/vendor.qti.ims.factory-V1.0-java.jar
--system_ext/framework/vendor.qti.ims.factory-V1.1-java.jar
--system_ext/framework/vendor.qti.ims.rcsconfig-V1.0-java.jar
+system_ext/framework/com.qualcomm.qti.imscmservice-V2.0-java.jar
+system_ext/framework/com.qualcomm.qti.imscmservice-V2.1-java.jar
+system_ext/framework/com.qualcomm.qti.imscmservice-V2.2-java.jar
+system_ext/framework/com.qualcomm.qti.uceservice-V2.0-java.jar
+system_ext/framework/com.qualcomm.qti.uceservice-V2.1-java.jar
+system_ext/framework/com.qualcomm.qti.uceservice-V2.2-java.jar
+system_ext/framework/vendor.qti.hardware.data.iwlan-V1.0-java.jar
+system_ext/framework/vendor.qti.ims.callinfo-V1.0-java.jar
+system_ext/framework/vendor.qti.ims.factory-V1.0-java.jar
+system_ext/framework/vendor.qti.ims.factory-V1.1-java.jar
+system_ext/framework/vendor.qti.ims.rcsconfig-V1.0-java.jar
 system_ext/lib/com.qualcomm.qti.imscmservice@1.0.so
 system_ext/lib/com.qualcomm.qti.imscmservice@2.0.so
 system_ext/lib/com.qualcomm.qti.imscmservice@2.1.so
