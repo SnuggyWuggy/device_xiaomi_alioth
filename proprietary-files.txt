@@ -76,7 +76,6 @@ system_ext/lib64/vendor.qti.hardware.slmadapter@1.0.so
 -system_ext/app/uimremoteserver/uimremoteserver.apk
 -system_ext/etc/sysconfig/qti_telephony_system_packages_config.xml
 -system_ext/framework/com.qti.dpmframework.jar
--system_ext/framework/google-ril.jar
 -system_ext/framework/qcrilhook.jar
 -system_ext/framework/qmapbridge.jar
 -system_ext/framework/uimlpalibrary.jar
@@ -91,7 +90,6 @@ product/etc/permissions/UimService.xml
 product/etc/permissions/vendor.qti.hardware.data.connection-V1.0-java.xml
 system_ext/etc/permissions/com.qti.dpmframework.xml
 system_ext/etc/permissions/com.qualcomm.qcrilmsgtunnel.xml
-system_ext/etc/permissions/google-ril.xml
 system_ext/etc/permissions/lpa.xml
 system_ext/etc/permissions/qcrilhook.xml
 system_ext/etc/permissions/uimremoteclient.xml
